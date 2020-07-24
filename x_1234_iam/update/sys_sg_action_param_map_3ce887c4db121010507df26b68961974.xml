@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Group)">30e887c4db121010507df26b68961971</button>
+        <item_parameter display_value="Group manager">b0e887c4db121010507df26b6896196f</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 18:08:35</sys_created_on>
+        <sys_id>3ce887c4db121010507df26b68961974</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b0e887c4db121010507df26b6896196f</sys_name>
+        <sys_package display_value="Identity and Access Management" source="x_1234_iam">b9978700db121010507df26b689619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Identity and Access Management">b9978700db121010507df26b689619a7</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_3ce887c4db121010507df26b68961974</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 18:08:35</sys_updated_on>
+        <ui_parameter display_value="Manager">30e887c4db121010507df26b68961973</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

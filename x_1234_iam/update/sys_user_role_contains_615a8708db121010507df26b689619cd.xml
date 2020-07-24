@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="identity_and_access_management" name="identity_and_access_management">295a8708db121010507df26b689619ba</contains>
+        <role display_value="x_1234_iam.approver" name="x_1234_iam.approver">1ed7c784db121010507df26b68961911</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 18:14:55</sys_created_on>
+        <sys_id>615a8708db121010507df26b689619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>identity_and_access_management.x_1234_iam.approver</sys_name>
+        <sys_package display_value="Identity and Access Management" source="x_1234_iam">b9978700db121010507df26b689619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Identity and Access Management">b9978700db121010507df26b689619a7</sys_scope>
+        <sys_update_name>sys_user_role_contains_615a8708db121010507df26b689619cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 18:14:55</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

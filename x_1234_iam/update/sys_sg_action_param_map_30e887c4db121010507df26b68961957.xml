@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (User)">f0e887c4db121010507df26b68961951</button>
+        <item_parameter display_value="User avatar">78e887c4db121010507df26b6896194d</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 18:08:34</sys_created_on>
+        <sys_id>30e887c4db121010507df26b68961957</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>78e887c4db121010507df26b6896194d</sys_name>
+        <sys_package display_value="Identity and Access Management" source="x_1234_iam">b9978700db121010507df26b689619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Identity and Access Management">b9978700db121010507df26b689619a7</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_30e887c4db121010507df26b68961957</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 18:08:34</sys_updated_on>
+        <ui_parameter display_value="Avatar">34e887c4db121010507df26b68961952</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

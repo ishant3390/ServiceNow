@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Identity and Access Management">20e88384db121010507df26b68961985</applet_launcher>
+        <order/>
+        <section display_value="Group">8de887c4db121010507df26b68961986</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 18:08:35</sys_created_on>
+        <sys_id>09e887c4db121010507df26b68961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Identity and Access Management" source="x_1234_iam">b9978700db121010507df26b689619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Identity and Access Management">b9978700db121010507df26b689619a7</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_09e887c4db121010507df26b68961987</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 18:08:35</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>
