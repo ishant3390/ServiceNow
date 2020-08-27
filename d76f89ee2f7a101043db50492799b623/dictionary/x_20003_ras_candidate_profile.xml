@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Candidate profile" max_length="40" name="x_20003_ras_candidate_profile" sizeclass="0" type="collection">
+        <element label="Address Line 1" max_length="100" name="address_line_1" type="string"/>
+        <element label="Address Line 2" max_length="100" name="address_line_2" type="string"/>
+        <element label="City" max_length="100" name="city" type="string"/>
+        <element label="Email address" max_length="100" name="email_address" type="string"/>
+        <element label="Legal First Name" max_length="100" name="legal_first_name" type="string"/>
+        <element label="Legal Last Name" max_length="100" name="legal_last_name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element label="State" max_length="100" name="state" type="string"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <element label="Zip Code" max_length="10" name="zip_code" type="string"/>
+        <index name="index">
+            <element name="user"/>
+        </index>
+    </element>
+</database>
